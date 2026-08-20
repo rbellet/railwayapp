@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Randy Bellet's Railway App
         </a>
       </header>
     </div>
